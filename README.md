@@ -7,7 +7,7 @@ To get started:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mxshapira/prototype-web-page.git
+   git clone https://github.com/mxshapira/prototype-web-page.git .
    ```
 
 2. Install the dependencies:
