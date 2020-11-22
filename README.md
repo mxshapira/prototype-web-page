@@ -9,8 +9,14 @@ To get started:
    ```bash
    git clone https://github.com/mxshapira/prototype-web-page.git .
    ```
+   
+2. Remove .git:
 
-2. Install the dependencies:
+   ```bash
+   rm -rf .git   
+   ```
+
+3. Install the dependencies:
 
    ```bash
    # Using npm
@@ -20,7 +26,7 @@ To get started:
    yarn
    ```
 
-3. Start the development server:
+4. Start the development server:
 
    ```bash
    # Using npm
@@ -32,7 +38,7 @@ To get started:
 
    Now you should be able to see the project running at localhost:8080.
 
-4. Open `public/index.html` in your editor and start experimenting!
+5. Open `public/index.html` in your editor and start experimenting!
 
 ## Play with it on CodeSandbox
 
